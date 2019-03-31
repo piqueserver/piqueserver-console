@@ -1,0 +1,11 @@
+#map-canvas {
+    width: 30%;
+    height: 30%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+body {
+    width: 100vw;
+    background-color: #EEEEEE;
+}
